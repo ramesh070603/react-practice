@@ -1,4 +1,4 @@
-import { ProductsList } from "../Features/Products/Productslist"
+import { ProductsList } from "../Features/Products/ProductsList"
 
 
 
